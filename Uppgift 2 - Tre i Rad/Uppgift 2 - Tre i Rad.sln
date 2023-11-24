@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 2 - Tre i Rad", "Uppgift 2 - Tre i Rad.csproj", "{80BCA816-65CB-433E-93AA-1FD078E9FFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BCA816-65CB-433E-93AA-1FD078E9FFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BCA816-65CB-433E-93AA-1FD078E9FFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BCA816-65CB-433E-93AA-1FD078E9FFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BCA816-65CB-433E-93AA-1FD078E9FFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE9C9EC8-AE8B-4AA7-BB85-A76629B9FCC4}
+	EndGlobalSection
+EndGlobal
